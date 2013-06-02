@@ -1,0 +1,128 @@
+Command 0x03: get status flags
+Received status flags: BitSet(3) -> Map(UsbPower -> false, FirmwareLoaded -> false)
+
+Command 0x06: load firmware
+Received return code: 0x06
+Sent payload -> checksum: 65536 (0x10000) bytes -> 0xa2
+Received return code: 0x06
+
+Command 0x16: re-init firmware
+Received return code: 0x06
+Sent byte: 0x80
+Received return code: 0x06
+
+Command 0x03: get status flags
+Received status flags: BitSet(3, 4) -> Map(UsbPower -> false, FirmwareLoaded -> true)
+
+Command 0x24: ???
+Received unknown bytes: 256 (0x100) bytes
+
+Command 0xe1: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0x03: get status flags
+Received status flags: BitSet(3, 4) -> Map(UsbPower -> false, FirmwareLoaded -> true)
+
+Command 0x13: get identifiers
+Received manufacturer name -> product name: FUJITSU -> ScanSnap S1300i 0D12
+
+Command 0x03: get status flags
+Received status flags: BitSet(3, 4) -> Map(UsbPower -> false, FirmwareLoaded -> true)
+
+Command 0xe1: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0x03: get status flags
+Received status flags: BitSet(3, 4) -> Map(UsbPower -> false, FirmwareLoaded -> true)
+
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x00
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xb6: ???
+Received unknown bytes: {
+0x06
+}
+Received unknown bytes: {
+0x10, 0x1e
+}
+
+Command 0x33: get sensor flags
+Received sensor flags: BitSet(6, 12, 13, 14) -> Map(ScanSw -> false, AdfOpen -> false, Hopper -> false, Top -> false, Sleep -> false)
+
+================================================================================
+Unknown commands:
+Command 0xb6: ???
+Received unknown bytes: {
+0x06
+}
+Received unknown bytes: {
+0x10, 0x1e
+}
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x00
+}
+Received unknown bytes: {
+0x06
+}
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+Command 0xe1: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+Command 0x24: ???
+Received unknown bytes: 256 (0x100) bytes
+
