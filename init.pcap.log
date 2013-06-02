@@ -93,6 +93,7 @@ Received unknown bytes: {
 Received unknown bytes: {
 0x10, 0x1e
 }
+
 Command 0xd8: ???
 Received unknown bytes: {
 0x06
@@ -103,6 +104,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xd8: ???
 Received unknown bytes: {
 0x06
@@ -113,6 +115,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xe1: ???
 Received unknown bytes: {
 0x06
@@ -123,6 +126,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0x24: ???
 Received unknown bytes: 256 (0x100) bytes
 

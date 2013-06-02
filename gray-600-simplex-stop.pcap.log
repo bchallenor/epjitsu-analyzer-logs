@@ -2235,6 +2235,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xb2: ???
 Received unknown bytes: {
 0x06
@@ -2245,6 +2246,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xb3: ???
 Received unknown bytes: {
 0x06
@@ -2255,6 +2257,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xb4: ???
 Received unknown bytes: {
 0x06
@@ -2265,6 +2268,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xb5: ???
 Received unknown bytes: {
 0x06
@@ -2272,6 +2276,7 @@ Received unknown bytes: {
 Received unknown bytes: {
 0x19, 0x00
 }
+
 Command 0xd8: ???
 Received unknown bytes: {
 0x06
@@ -2282,6 +2287,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xd8: ???
 Received unknown bytes: {
 0x06
@@ -2292,6 +2298,7 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
+
 Command 0xe1: ???
 Received unknown bytes: {
 0x06
