@@ -1,0 +1,96 @@
+Command 0xb0: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x00
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xb2: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xb3: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x03
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xb4: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x88
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xb5: ???
+Received unknown bytes: {
+0x06
+}
+Received unknown bytes: {
+0x19, 0x00
+}
+
+Command 0xb6: ???
+Received unknown bytes: {
+0x06
+}
+Received unknown bytes: {
+0x10, 0x1e
+}
+
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x00
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xd8: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0xe1: ???
+Received unknown bytes: {
+0x06
+}
+Sent unknown bytes: {
+0x01
+}
+Received unknown bytes: {
+0x06
+}
+
+Command 0x24: ???
+Received unknown bytes: 256 (0x100) bytes
+
