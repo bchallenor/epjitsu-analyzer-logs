@@ -1,3 +1,6 @@
+Command 0x24: ???
+Received unknown bytes: 256 (0x100) bytes
+
 Command 0xb0: ???
 Received unknown bytes: {
 0x06
@@ -90,7 +93,4 @@ Sent unknown bytes: {
 Received unknown bytes: {
 0x06
 }
-
-Command 0x24: ???
-Received unknown bytes: 256 (0x100) bytes
 
